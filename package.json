@@ -1,0 +1,26 @@
+{
+  "name": "cookbook-be",
+  "version": "1.0.0",
+  "description": "Back End part of the cookBook app",
+  "main": "routes/index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Oleh Matiykiv",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "config": "^3.2.5",
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "firebase-admin": "^8.9.2",
+    "heroku": "^7.39.0",
+    "joi": "^14.3.1",
+    "mongoose": "^5.0.11",
+    "morgan": "^1.9.1",
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
