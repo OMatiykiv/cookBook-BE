@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "express": "^4.16.3",
     "firebase-admin": "^8.9.2",
